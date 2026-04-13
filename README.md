@@ -26,13 +26,6 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanverhassantanver&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Projects
 - 🌿 Medicinal Plant Identification using ML  
 - 📊 Data Analysis Projects  
